@@ -1,5 +1,5 @@
 def hello():
-    print("Hello, I'm Gittie!")
+    print("How are you? I'm Gittie!")
 
 
 def joke():
