@@ -1,8 +1,11 @@
 def hello():
     print("Hello, I'm Gittie!")
     print("Nice to meet you.")
-    print("How are you? I'm Gittie!")
+    print("How are you? I'm haha!")
     print("I am so polite")
+    print('hahztsas')
+    print("\n")
+
 
 
 def joke():
