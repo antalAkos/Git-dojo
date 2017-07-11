@@ -1,6 +1,7 @@
 def hello():
     print("Hello, I'm Gittie!")
     print("Nice to meet you.")
+    print("How are you? I'm Gittie!")
 
 
 def joke():
