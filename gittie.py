@@ -7,7 +7,6 @@ def hello():
     print("\n")
 
 
-
 def joke():
     print("What does Batman sais to Robin when he wants to get into the Batmobil?")
     print("???")
@@ -16,3 +15,7 @@ def joke():
 
 def add(a, b):
     print(a + b)
+
+
+def shout(string)
+    print(string.upper())
