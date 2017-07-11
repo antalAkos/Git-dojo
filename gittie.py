@@ -1,7 +1,7 @@
 def hello():
     print("Hello, I'm Giadfttie!")
     print("Nice to vava you.")
-    print("How are you? I'm haha!")
+    print("Hthis is dull haha!")
     print("I am so polite")
     print('hahztsas')
     print("\n")
