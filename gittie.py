@@ -1,6 +1,6 @@
 def hello():
-    print("Hello, I'm Gittie!")
-    print("Nice to meet you.")
+    print("Hello, I'm Giadfttie!")
+    print("Nice to vava you.")
     print("How are you? I'm haha!")
     print("I am so polite")
     print('hahztsas')
